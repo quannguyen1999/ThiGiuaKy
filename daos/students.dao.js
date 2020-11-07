@@ -1,3 +1,7 @@
+//B1 students to table you want
+//B2 ma_sinhvien to id 
+//B3 update 
+ 
 var uuid = require('node-uuid');
 var AWS = require("aws-sdk");
 const BUCKET_NAME = 'kimquyen';

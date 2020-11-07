@@ -1,3 +1,17 @@
+//B0 students -> to in daos.js 
+//B1 studentsDao -> to name + Dao 
+
+//B2  change in post create new 
+// const classroom = {
+//   id: uuid.v1(),
+//   ma_lop: req.body.ma_lop,
+//   ten: req.body.ten
+// }
+
+//B3 ma_sinhvien to id you want
+
+//B4 change update
+
 var express = require('express');
 var router = express.Router();
 

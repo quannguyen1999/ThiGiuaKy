@@ -1,3 +1,18 @@
+//B0 classes -> to in daos.js 
+//B1 classesDao -> to name + Dao 
+
+//B2  change in post create new 
+// const classroom = {
+//   id: uuid.v1(),
+//   ma_lop: req.body.ma_lop,
+//   ten: req.body.ten
+// }
+
+//B3 ma_lop to id you want
+
+//B4 change update
+
+
 var express = require('express');
 var uuid = require('node-uuid');
 const classesDao = require('../daos/classes.dao');

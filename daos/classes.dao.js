@@ -1,3 +1,12 @@
+//B0 ap-southeast-1 -> change your region
+//B1 classes -> name table you want 
+//B2 ma_lop -< id you want
+
+//B3 update => change you want
+// UpdateExpression: "set ten = :name",
+// ExpressionAttributeValues:{
+//     ":name": classroom.ten
+// },
 var uuid = require('node-uuid');
 var AWS = require("aws-sdk");
 
